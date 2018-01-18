@@ -39,7 +39,7 @@ export interface CurrencyPair {
  */
 export interface Event {
   Trade?: Trade;
-  NewOrder?: Order;
+  InsertOrder?: Order;
   ResetOrder?: Order;
   RemoveOrder?: Order;
   OrderBook?: OrderBook;
