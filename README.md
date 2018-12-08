@@ -1,11 +1,11 @@
-# crypto-bank market primitives
+# TypeScript crypto-bank market primitives
 
 [![See COPYING.txt][badge-copying]][COPYING]
 [![NPM version][badge-npm]][npm]
 [![Travis CI][badge-ci]][ci]
 [![Coverage Status][coverage-badge]][coverage-status]
 
-Rust primitives for crypto-bank market implementation.
+TypeScript primitives for crypto-bank market implementation.
 
 ## License
 
@@ -13,7 +13,7 @@ See [COPYING][COPYING] file for licensing details.
 
 ## Project
 
-This source code is part of [crypto-bank](https://github.com/crypto-bank) – interplanetary functions project.
+This source code is part of [crypto-bank](https://github.com/crypto-bank) project.
 
 [ci]: https://travis-ci.org/crypto-bank/crypto-market-ts
 [npm]: https://www.npmjs.com/package/@cbank/market
