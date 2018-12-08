@@ -1,5 +1,5 @@
 /**
- * @license Apache-2.0
+ * @license GPL-3
  */
 
 /**
@@ -72,5 +72,3 @@ export interface SimpleOrder {
   r: number; // rate
   a: number; // amount
 }
-
-export * from './symbols';
